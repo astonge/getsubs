@@ -1,0 +1,1 @@
+cat domains-list.txt | httprobe | tee hosts
